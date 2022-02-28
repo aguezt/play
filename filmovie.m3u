@@ -1,0 +1,176 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/tI97wQtX4RcqcOm8icmQsA0JRyeZL0n8FA7TxAtcSaBBi-K-1kPGVo2ccD-gplFJraNUUr9784LBtzue65GB5SlFSsIcnMWJzoTmgg=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", gtv
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JcVB-uW4TWIjwEjPHhOkhkoJ2OL5XKAs0iBLv161C1fcj7mmtLwGTqNJlzgsGm_Ylk7Y4JOYO24gibdxAhq3v-76GI2sUOn6fLM2Fw=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", trans tv
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w922112201_b344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KCZmN-8utAYhP8lK2U-s2oJ310zkU6CwdkumxePv5Rn5kIt4zWlLK_c_XLLOWG5GLY9lxMNaqiNi_TlekMekZjBPfMAiXzstgxaE4g=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", antv
+http://group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/W80YUg4MpSbfbTCYJM0HCgsIp91AQuLPpNQG2ZpbX1IX0QnLp9_aojiaLroPLKTG-fP-bCevo44SdsE2qoJre75n7DIXuPsmHSEdDg=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", indosiar
+http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Vi4c-BBPYpw3TMNm7LAxdTRsUB-89gKmXYcvn1bAJQq3sthVeP2gyXA26SioJlZL2BwnaKVgb7-V1sXM85wsIfLS5HJvqvUsNemd_Q=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", rcti
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7ezt9fEw4P0NMD4RDs5H8lU41t_9O7h0QiHy4J7UcZrCbdZkzBj9GXp5H1z8N2PDelfT6l-6xW0loFL01Y9577QlrjflHsbfpAVFwg=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", mnctv
+https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6GdrNnN6qfcs5PsRNpl6fGYx3FeOtS0vXIPIsBl7j0Okr1XiBf--9Zn02URb2qfGUsmnT1AOk4BvOWBydS_PEmcpe1aJarkzIQxg-Tc=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", sctv
+http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Gr6bOyemndiQbPWq83TQQZ1619iIgXY_74Oj3ptTxVxE1HVhGNo9bcTv3Db2DNVyijNgvd-zdRfQ-lGhsskEhyQDX2-mSvUoXZS5bw=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", o chanel
+http://210.210.155.35/session/e0c19ce8-790c-11ec-a7a0-c81f66f89318/x6bnqe/s/s73/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ApkN_ojVqGDOE0Mml92PA2l9xNROrj8VY-X02eah_noO352-WzNhfA-kTxKxoC3wj-9m2e1oxk6SNvzL7YU-65whxCNmVHJOZIwi=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", metro tv
+http://210.210.155.35/session/6f90276e-9631-11ec-8325-c81f66f89318/uq2663/h/h12/02.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-n_v89kGsBksVfYq5VeruHqOyMDa4BQeG65ebXb21-dM_rrnfDZPVlRSFgp5IbyRE2u8H52IUtgRd4Qm8QlNk2-IS7nJVdfVvqvHqA=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1064175795_b344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xsc-nBZ-YqBMwycJcI7Oc2UDSGdsZepBvbGGgGwG1sGgkrQM2KFs_uLcCfylGe-s-pthJ-yVeSppUpyz7QyrqJTWWIw_6-JQ_tQm=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", tv one
+http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EE5Ttga57uNosBhj9Y-CWjMad6T9bv1QVq4-2IBzWO9v2J6pqfnkNyyoVBMWjGjAuo65Jz834WGztvCoeFu53oEowmCGZ2ubDygz6Q=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", tvri
+http://group2-swiftservesd-1.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kMkgZu5xH3eV79_21cXZG1e6CfY8MV0UmOEDwmP92aykqXAbKYSfjCkOntEgqX7j6_zv-68ozO_gL7qQwkpT9cCLdMaxoC7iSms3=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", kompas tv
+http://group2-swiftservesd-1.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7g33iU0-FhcOE3WzhHAuMIvrvylzA5Lwgry6qw7HfQH5QdHpENMIfPq-H2RsF_DO6KWVv-JDCR-Hv7T_hVJZuXfZq2HleO-WZDbkOw=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", net
+http://group2-swiftservesd-1.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IzDBoRcUNIc1IOpgT6WBzS_MR-N6boneYzCTFf5i13H_VLnrW_x9DRKe6YIQ5jvRVtxLyClf8_xDhT0TMtiBnWozAIhm7suJ72SR=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", bioskop indonesia
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/rZS0kfCLkcwZLzvRsX4IONGmuBehUPaakxbqKWVYgl7eweMicTtJ7cmLdgaAMtl5pRgQ8ITYUiKhUYBijKYzkYrqfXVQytXc-Gr8Wg=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", jtv
+https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KDBwM3Kb81CDkofezcXrMGdYTBu5yljZw7_VrRWDE9FJZdibQWqZboxJt2-lU2AYYdp_uFLMkckvO9WCiLLWxMtQ9sdUeuyr77c1AQ=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", ugtv
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/YD43oAs8M8CjgfVl0C0tEcHnFLljqcxHJRBRzTVJ8yu_--8TAR8MPiKzsApPBBaUiSE0-PMAIDbDnaGQ122smhIfAT9UVAEeGfUFQA=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", cnn
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ECfJsVYbB2GWujT4THdIyCa4ctApUkfJygShYQnv13OMfYUAkQn8i488SKrscOafgOovm6u1PJFyOnE4AkNDu0rK00hw3sGPIXh7=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", arek tv
+http://wowza58.indostreamserver.com:1935/arektv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VuL8smKR0Y19BZ6cFKH91gKSL08kV0yx_1ljj66FFDLJvq7RpyyN4jMoCdqcTOrCH-bYW_Z7j3i6X6345oQXFeJpu5RN55fnIor9gA=w360-h684-rw-sm-pa-nu-v0" group-title="tv indonesia", cnbc
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+##filmovie##
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/Ju%20Dou%20(1990).jpg" group-title="filmovie", Ju Dou (1990) china
+https://www.googleapis.com/drive/v3/files/1creLA5BPZp-xNyoawGQoRorBV6SZUswk?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/Chandni%20(1989).jpg" group-title="filmovie", Chandni (1989) india
+https://www.googleapis.com/drive/v3/files/1fUEfXcvhaXxUVm0a4cziYQaUQPEDNFU-?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/Doraemon%20Movie%2038%20Nobita%20no%20Takarajima%20(2018).jpg" group-title="filmovie", Doraemon Movie 38 Nobita no Takarajima (2018) Dub indo
+https://piohealth.files.wordpress.com/2022/01/doraemonmovie38nobitanotakarajimadubbingindonesia.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oe8L1NZlBCDvB74_j-4wv2v6ycsjpIw4K4pIZ_pihTA2p9buUUXpIMboxs8zcVToOsc0lInlkAQUlLLMqA53sS-N-x8FrlF1rjenA=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", The Third Man (1949) uk
+https://www.googleapis.com/drive/v3/files/1BlmbdiCyGj445NgwdrNC1BwDFHFU_HdQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/B2p8LGzaG2lbubtnvBwHD94mN60RIx3XRexb0VigCifE7WyQSw2D7bhQKr3uvALbEKx9q8igs1-3OLNCDLMmmYMNeVcmTf1rrP1aMQ=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", The Legend Of Snow White (2013) Dub indo
+https://piohealth.files.wordpress.com/2022/01/thelegendofsnowwhite28201329dubbingindonesia.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BRIA9mESBa5TcW88yb1T0eR_y1N-XILNV8cEhLMN-RUL2r42M6_k_M5UJED9G9oUEbPSCNKNx1Pn1AYpgeh9VZ2aaTT_9dJWMGCoeoo=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Moshi Monsters The Movie (2013) dub indo
+https://filcodeblog.files.wordpress.com/2022/01/moshimonstersthemovie28201329dubbingindonesia.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/eVPIL5CxY2xpZ9oYTxRbRNfHuocqwKH3xQpwRmILi3sBSNQ1YsAgbFpLWidoHlIavywOCldydoejEFf607cm-W49U8JMjh4OwTKH=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Cruella (2021) dub indo
+https://piohealth.files.wordpress.com/2022/01/cruella.2021.dub_.indo_.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UU-qra0euiAyg6gN7dtS6zP4TujFohX8DjIuR0MjLkfUyRx2hf4lDp_NcQBwnZL2dZjZ2FdZasiVUXhcEmJqA69qRa1Mxaq-SbdWMg=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Jungle Cruise (2021) Dub indo
+https://c.degoo.eu/degoo-production-large-file-us-east1.degoo.me/AD9T68/kqGYDw/mp4/ChRFHwEy9hdLnuqJpTvhJY1diCrZMxAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DYGhLQhZVU0gDE1AWPTs1HTwiZDJePHUGCQAMP10UJyA4PUZlBSEqbxpjNwsJeU19Aw&ngsw-bypass=1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KF-tAAfz6T1_gO4wFAzp23mQDm1figlcSoDF2OjCofRMNk32dfD5kX9LLhN4xI3TH-ispkLZbuAMMUNzg7bHP-aWAnHT9Tv04vmJgw=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Kaze no Tani no Nausicaä (Nausicaä of the Valley of the Wind) Dub indo
+https://pi4home.files.wordpress.com/2022/01/kazenotaninonausicac3a428nausicac3a4ofthevalleyofthewind29dubbingindonesia.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/R92Nrx0Y2EjO87SOMpkkSMlJaPo6CzGbCmYAcZ7cYqEdif0uPSVMfj2Us9QqQrXaG9CZPJrgelyYWmxfq8poujW5WlIUpA7z0UKEqfg=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Home Alone (1990) dub indo
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/AD9T68/kqGYDw/mp4/ChR8XjyNt5OozZec2AU1unA12_ea3hAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DYGhLQBFVVk8DE1AWPTs1HTwiZDhmK3sLGDQ-PA4RHB8yIj5mMDsbdhVJVGEcAC1-Ymos&ngsw-bypass=1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OIS_TYgWzSePKe7rwsbPbI8zjrEYTWbv4guu9bvvVIaN3G6KibHu7wLb1lBTEZvkbYyQaiZQJfkkEPoy11TYzlDA9ykG-MNEGAaR2Q=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Hide and Seek (2021) korea
+https://www.googleapis.com/drive/v3/files/1pUMIcOf-aGMdYTgQHPZL-oErix2cWzP3?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Dyh9oESWfhwibiRSGY0PkLp7cd2RCDpALN9Ko61v7ZdnBaY6fzIUrEknocxF72HYvvWQOcem-6o_HYQhutpvoa0DlyfvOtS9hqjk7VM=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Pokemon: Detective Pikachu (2019) japan
+https://www.googleapis.com/drive/v3/files/1Z4eKXic5qj7lOgrDlOi9q_7aVkmFijaO?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oE2-S5ejmksFY6hOqWnhWYcJVQeQ4dI05quqyOTR3_B1lJtJAsF6fSlIr-g49tfewDXKZpzxx6MvVy_5Ycgb386H4v9oLk82fuDVKw=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", tersanjung: the movie (2021) indonesia
+https://www.googleapis.com/drive/v3/files/1QlClhOg4z99Sy6esVuQCFE6lEgEU4_JG?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/l2LZedoUXADUA006EHyePcfBzrnAgGp_Vj3XH7vh74dMIK-8vcDtXLM2Nti9UHdvuGq3smF4HmJiqOZKHavydiMaDpkrZlvCy9UPcE4=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Surat dari Kematian (2020) indonesia
+https://www.googleapis.com/drive/v3/files/1WTzIx4J1XQ1nZUkieN609_Io6Gx6yHOC?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/AqUJSo_auaWXnCX2_4xcHEihSVs_DvvhxlGDsT04a0Ri_nIhl3lMRxA9f_BtNqTNvZFzITCd4AaVVRFWN3jpStNqhP797gLPDhCGGQ=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Sinister Switch (2021) usa
+https://www.googleapis.com/drive/v3/files/10EkW3IaV2DnH-lP209Y9Fck-4HRVmDWZ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VHqnYFg72p3LE7FWwm7JqwNoqjBTzAXa-AlRvrM_JutvmLxxb7Xl0tmegKfVImIkZmxbV1YjnpBecmbeOYyj6AM-O1xxQuxrDw_KAQ=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", inception (2010) usa
+https://www.googleapis.com/drive/v3/files/188r48q725lwic5QsWIsZfzb3bBEq6o3b?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/bGc5Ioq-bDQiw8si3W5163rH58mNbYuXkJ3DskW6j4UUKCE2zA3pbgsKMSvjv9iZdGJ3mfdPoMkTR8IS7jNoGa04phNiHXNjQaek=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Armour of God (1986) hong kong
+https://www.googleapis.com/drive/v3/files/1W3dqtIiGVu5QloSOPzIh4tl7kAqHbbWQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g7hoJ-mggAC-oAq4EpfNhPQ_JN--9wlj5VyVCHU0xAEK86lzU9Kwd8AZP5d8xuabGCjJwXrxYRDd5mKzslqiAEgvaYpokiPihj5q=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Cook Off (2017) usa
+https://streamku.xyz/stream/360/IvWWBSGbwtKiJAO/__001
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/i-UB8JZRlbdssM4wo7CVHojEC84k8hrsnaDxzDO_PUl6SrtoC_PqR4uRRBK6PWP_PCqMB4TZyEo5mHdFtpf_Y9j8IlhGZQc5D-odaA=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Nightfire (2020) usa
+https://streamku.xyz/stream/360/eIzwXA6gbkEXznS/__001
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MwCIAQIRUReMlrZF2hjjn8Z_p1LlmEXyBUmoewp9SC17xBTwm5b76DbJ0q2SfpCT1CfqSOXqXmWW1L7TIsSANr9MPrg7TwN4e9oe=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Lake Placid vs. Anaconda (2015) usa
+https://www.googleapis.com/drive/v3/files/1XVbF1B4ORb2grwBzmtoMP640MvCvj_6m?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0uEwgRL4zxCy3cHtVlXQ_7eIg7sbvjaakPzw66o9tXU0AV3wrAG1YY5Cry379QqBCO5m8U3uU6GPq-i3mQAYvQu0ZXn-7z0rYFcRVA=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Dragon Ball Z Movie 01 - Zona Kematian dub indo
+https://c.degoo.biz/degoo-production-large-file-us-east1.degoo.me/AD9T68/kqGYDw/mp4/ChRTJZvEsYfl-V8un5CiqRW5ELBz2BAA.mp4?q=JBZKJ1UUEjkiDT00EAwOFXYrJnMvICgNQA1oSiNxKjc8YQl_RxcVEyUEAA48eRxhMjN2LSgjECJiFT4lEyJXKWgDeCgeG3QqHHELKRUXQRQIMA8BUm9DYGhJQh1UVEoDE1AWPTs1HTwiZAJ4YVRWFwUACj5rMw47ASBGL1oAaSpXBBBjdU19Aw&response-content-disposition=attachment;%20filename=%22Dragon%20Ball%20Z%20Movie%2001%20-%20Zona%20Kematian%20Dubbing%20Indo.mp4%22&ngsw-bypass=1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 1 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode1.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 2 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode2.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 3 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode3.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 4 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode4.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 5 Avatar The Legend of Aang (Book One: Water)
+https://s3.wasabisys.com/degoo-production-large-file-us-east1.degoo.info/AD9T68/kqGYDw/mp4/ChQg51lTA6Y3aMuhjCby0ZDDHc3LOxAA.mp4?AWSAccessKeyId=QCIW8NA9JUUC4PKQYZTJ&Expires=1646864044&Signature=yLoP5WDZjJkPOMSKTsnXBTEm%2FoQ%3D&ngsw-bypass=1
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 6 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode6.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 7 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode7.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 8 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode8.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 9 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode9.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 10 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode10.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 11 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode11.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 12 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode12.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 13 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode13.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 14 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode14.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 15 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode15.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 16 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode16.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 17 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode17.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 18 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode18.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 19 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode19.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2tJIbOinVhmLuA92R-nPshFjgffEC6gZ9DpkiMkyO26CivKfXKXbztqDdLkiaA6ncyA6Bjm9_vqpK8lunWzWpM0_1BwdOLne8wYtA=w360-h684-rw-sm-pa-nu-v0" group-title="avatar the legend of aang", eps 20 Avatar The Legend of Aang (Book One: Water)
+https://yuifinance.files.wordpress.com/2022/01/avatarthelegendofaangepisode20.mp4
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 1 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1RX9O3pLHgvA5ATW2uH_X9CJyOSKnTpRa?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 2 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1iqIIwS9VWCIVpfpwKhudyK3PXIlSstX7?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 3 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1aVklfnzNDdrjXFGDDmHMiQ6aJZ8LK1ii?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 4 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1c1t00kADKPp3Bgdo9CbhzrmZvFyD7t05?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 5 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/12Q92BqaQ_V62Tunxx-rU4cT_0qi3U1Fi?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 6 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1IqCwqlM1CQ9T0RBWe1QKu_nXosaUGBBa?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 7 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1fHWSD6HIxlpqfUHfrLaBjfEmv4Xx-dQ9?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 8 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1g4nHmdwEVBUDzADc8H68eGg5bNXTMIID?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 9 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1WD2-19uqsclU4OoiTFErV10-B_SSDvq8?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 10 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1h4QQCehKbHAOmti2fBZ1DvwyRHOebJo9?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 11 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1mqOKbK9oH2ZsnVj_OKLTA4bz-Ds4_si_?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 12 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/14iMSBojEKhz6v4eQ0rzJSsDHm8at5Pz1?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 13 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1lfbqqgdKbc9s6hmY5d7xzwIPeploKzhs?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 14 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1q5iPvX5F51miXpTqMfiz9qYgcCODnhjj?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/DQzIK9lQCLz0c0SFIkTGaO78g0KybdmfK3DSAQtt24Clg-WgoNsH_gikzLem1xW5XLn-ogESSXL29v-cN7K_s_oYcg1e8nPqGVdi_w=w360-h684-rw-sm-pa-nu-v0" group-title="Hell Teacher Nube (1996)", eps 15 Hell Teacher Nube (1996)
+https://www.googleapis.com/drive/v3/files/1eCLSmu6O4rDvSuk3RzbrrMMTE5sC4ZM6?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 1 Squid Game (2021)
+https://pokdata.files.wordpress.com/2022/01/squidgame128202129dubindo.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 2 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/12u-p60HYQ1Jyl1Gngsz6PhB4Vu3OkaTc?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 3 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/149TK5WJDB8Q4QhLWJl2NO9yPq2Y1qSl9?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 4 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/14U4cJmg0h7VkNU37wttyG8qWeWaXeCUT?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 5 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/1-OQuI0RGbY0b0EOgh30TaNphUb6MqquQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 6 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/1TNMqtazlYnjyJhENhu87aQfPDdx7sLzs?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 7 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/1miaXLEanMy8fBAG4kzaXAG5DZMuOzGFz?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 8 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/1NFTLhx5xDYx4AfSBATLzU46p3WvnIn_h?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR8i5wiSS9ls69YiiQmJ9-Sqka0P3WuIhcg&usqp=CAU" group-title="Squid Game (2021)", eps 9 Squid Game (2021)
+https://www.googleapis.com/drive/v3/files/1x-FSguaPbiIeTbyJ-tNcspXUkKLpzQsM?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+zzzzz
