@@ -43,6 +43,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 ##filmovie##
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/Devil%20on%20Top%20(2021).jpg" group-title="filmovie", Devil on Top (2021) indonesia
+https://www.googleapis.com/drive/v3/files/1d0a7BLvZbsKlxt_SLSX3qsbC16bbTBqE?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/A%20Perfect%20Fit%20(2021).jpg" group-title="filmovie", A Perfect Fit (2021) indonesia
+https://www.googleapis.com/drive/v3/files/13BPmO17T3pUAi1G3ds3A2zP3vfSrEijQ?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/Ju%20Dou%20(1990).jpg" group-title="filmovie", Ju Dou (1990) china
 https://www.googleapis.com/drive/v3/files/1creLA5BPZp-xNyoawGQoRorBV6SZUswk?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/aguezt/i/main/Chandni%20(1989).jpg" group-title="filmovie", Chandni (1989) india
