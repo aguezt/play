@@ -55,11 +55,11 @@ https://www.googleapis.com/drive/v3/files/1grdjUSfesLzXKBS__VKvMNONYUHDMSzi?alt=
 https://www.googleapis.com/drive/v3/files/1JWUpImncDhwBEBY1JIfUpoagcvW7WE-O?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SkwixfHTueLZ4INQHCnKDFq6oi5Fc3elM8JGuzd6UegtD0ty1CIN8ccGQ9VsrneJhsAelqdBJl061SXrntzK2XT9fB772aHZngsdyGo=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Tahu Diri Dong (1984) warkop dki indonesia
 https://www.googleapis.com/drive/v3/files/1h3OTbj8cCjKAvf8N5o926VSOC-p_CFZK?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9xLg0xmTOhBvDXjXpIbZBtTQIRRG5L9Yilg&usqp=CAU" group-title="filmovie", maju kena mundur kena (1983) warkop dki indonesia
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/WBiZ-8AnPKHYGwSkXfj1sTMIajp6iJMnvIUzsSH8SMu09KxleRS5Upy2bSRfbc3aHUFzK-EIkoN1IgEt3uNWadMDPT8hwvbFmXWa8Q=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", maju kena mundur kena (1983) warkop dki indonesia
 https://www.googleapis.com/drive/v3/files/1SsUAvofzdEd5GBTAmS4Q9STRQfElaEYI?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJEG8ICK-l7aAWWw0RMWVCTWqHQ0j7Z2f2w&usqp=CAU" group-title="filmovie", Ge...er (Gede Rasa) (1980) warkop dki indonesia
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0Srwjzd6XqZooU1VFEzBreqbeVIC02oRFN0ncPHj8DQzbQn1FnfyvVf4HCUindd4_wnA-upm53TsdcxMo8wUcFJtW1UGIrci45lKiMA=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Ge...er (Gede Rasa) (1980) warkop dki indonesia
 https://www.googleapis.com/drive/v3/files/1LgaNLnCXQE9PEBhW8hihwfFonE5pk_lz?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKW53a9UYMZcsB6aFmrQQMtfifkR0usauBg&usqp=CAU" group-title="filmovie", Chips (Cara Hebat Ikut Penanggulangan Sosial) (1982) warkop dki indonesia
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2iXzqw8uNYPnXppbpqeoac5pa5XRJ7Td1MW4-BdEBmX9uR444vqRyW2voLdgfMRR8kJ9B540g6KSg916pWbXCvQRfwNE1b9vr-bX9OI=w360-h684-rw-sm-pa-nu-v0" group-title="filmovie", Chips (Cara Hebat Ikut Penanggulangan Sosial) (1982) warkop dki indonesia
 https://www.googleapis.com/drive/v3/files/1AkO9lt5JOTW1N3KZ_A2JM50wHG--_j0O?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa7htNP_UozKi-Gpm3-6TwzFNMVaJU0TupbQ&usqp=CAU" group-title="filmovie", pokoknya beres (1983) warkop dki indonesia
 https://www.googleapis.com/drive/v3/files/1Hafk6LzDSqRQnBlO1ZscbVhZzri4Y9DP?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
