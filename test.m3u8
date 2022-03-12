@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=test
-https://etslive-2-vidio-com.akamaized.net/exp=1647085364~acl=/hls-p/ingest_783_*/*~hmac=7acce0842ae521c23fc39dd9f7cf346a80d77e98a30865dca3fedf379e61e870/hls-p/ingest_783_360p/index.m3u8
+https://www.googleapis.com/drive/v3/files/1wWx-rOeIeQnk93QvhvgFl85or2-2Z8ub?alt=media&key=AIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw
