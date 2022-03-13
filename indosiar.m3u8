@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_600000=8.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1647165929~acl=/hls-b/ingest_205_*/*~hmac=73fa6ae12d1e45456cac286c83a28a64e312c6dc5beeeeb4462e615e1bb8a77c/hls-b/ingest_205_720p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_600000=8.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1647165929~acl=/hls-p/ingest_205_*/*~hmac=903c7bdd50be5de939cce1ab11fdc27a78b64e9f6c6e9b2564a1549d44354d94/hls-p/ingest_205_480p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_96000=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1647165929~acl=/hls-b/ingest_205_*/*~hmac=73fa6ae12d1e45456cac286c83a28a64e312c6dc5beeeeb4462e615e1bb8a77c/hls-b/ingest_205_360p/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_96000=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1647165929~acl=/hls-b/ingest_205_*/*~hmac=73fa6ae12d1e45456cac286c83a28a64e312c6dc5beeeeb4462e615e1bb8a77c/hls-b/ingest_205_240p/index.m3u8
