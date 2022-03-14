@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720
-http://playlist.urfan.web.id/session/c8fc9fe2-a32b-11ec-9207-bfe5a560a26a/qwr9ew/s/s32/01.m3u8
-http://group2-swiftservesd-1.dens.tv/s/s32/01.m3u8
-http://group2-swiftservesd-1.dens.tv/s/s32/02.m3u8
+https://streaming.useetv.com/joss/133/net/playlist.m3u8?enc=VPziBD5sjKKjPAry5kk0Wg&exp=1647300923&encp=24SMchqmODTFpShpIFIxYQ&expp=1647309623
